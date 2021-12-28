@@ -1,4 +1,4 @@
-# Base to start next js projects
+### Simples e eficiente formulário multi step, com Next JS e Redux Thunk
 
 ## How to use
 
@@ -6,13 +6,4 @@
 npm install
 # or
 yarn install
-```
-
-## Theme using styled components
-
-[Docs Styled Components](https://styled-components.com/)
-
-
-```bash
-whenever possible I will add new components to the theme.
 ```
