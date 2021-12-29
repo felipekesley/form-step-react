@@ -12,10 +12,8 @@ const Hello = () => {
 		<Style.Content>
 			<Title align="center">Oi, vamos começar?</Title>
 			<Text align="center">
-				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro
-				voluptatem amet magnam assumenda sunt consectetur, iste eligendi
-				qui distinctio, accusamus nesciunt dolorem vero unde fugiat
-				facilis veniam! Nihil, facere tempore.
+				Precisamos de algumas informações, siga os passos e logo
+				terminaremos.
 			</Text>
 			<Style.boxBtn>
 				<Button variant="primary" size="lg" onClick={handleClick}>
